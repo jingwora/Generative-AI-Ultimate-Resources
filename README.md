@@ -17,20 +17,20 @@ This comprehensive table give a well-rounded understanding of the different comp
 |----------------------------------|---------------------------------------------------------------|-----------------------------------------|
 | **Main subject**                  | -                                                               | - |
 | Subject                           | The primary focal point or entity in the prompt                | a man, a chef, many birds, mountain, flower, cityscape, scene  |
-| Subject description               | Details describing the attributes or characteristics of subject| Physical: old, colorful,  with happy faces, with black hair, elegant, futuristic ; Emontional: joyfully, fearfully, boldly, cheerful|
+| Subject Description               | Details describing the attributes or characteristics of subject| Physical: old, colorful,  with happy faces, with black hair, elegant, futuristic ; Emontional: joyfully, fearfully, boldly, cheerful|
 | Activity                          | What the subject is doing or the action taking place           | running, reading, eating, sleeping, holding a coffee cup, dancing   |
 | Location                          | The place or setting where the subject/activity is situated   | in a forest, in studio, in the ocean, on a street, at a cafe, atop a hill |
-| Background                        | Additional information or context behind the main subject      | in a crowded market, during sunrise, amidst ruins, under a starry sky |
+| Background                        | Additional information or context behind the main subject      | in a crowded market, during sunrise, amidst ruins, under a starry sky, starry night backdrop |
 | **Stylistic elements**            | -                                                               | - |
 | Style                             | The overall artistic or visual approach of the scene           | portrait, realistic photograph, traditional oil painting, watercolor painting, abstract painting, illustration, surreal digital art, pencil drawing, charcoal sketch,  cartoon, anime, poster |
 | Light                             | How the subject or scene is illuminated                        | bright colors, natural lighting, warm light, dramatic lighting, diffused light, bright, dark, Soft, warm sunlight, dimly, at night, moonlit, shadowy, under streetlights |
-| Color scheme                             | color schemes to influence the color of objects, light, or the entire image look and feel        | blue tone, black and white |
-| Angle                             | The perspective or vantage point of the scene                  | overhead, bird's-eye view, worm's-eye view, side view, frontal, diagonal, tilted, panoramic, close-up shot, realistic |
+| Color Scheme                             | color schemes to influence the color of objects, light, or the entire image look and feel        | blue tone, black and white, monochrome |
+| Angle                             | The perspective or vantage point of the scene                  | overhead, bird's-eye view, worm's-eye view, ground-level, side-on, front-facing, side view, frontal, diagonal, tilted, panoramic, close-up shot, realistic |
 | **Addtional elements**            | -                                                               | - |
-| aspect ratio |  aspect ratio of the image                 | 16:9,  |
-| Camera setting |  Camera setting for photograph                 | Nikon D6 high shutter speed action shot,  |
-| Level of detail and realism             |  The level of detail in the image    | 4k, 8k, realistic, ultrarealistic |
-| Artist names                             |  Artist names for painting and drawing    | Cézanne, Kahlo  |
+| Aspect Ratio	 |  Proportions defining the width and height of an image	                 | 16:9, 4:3, 1:1  |
+| Camera Setting	 |  Specific settings used for photograph | Nikon D6 high shutter speed action shot, high-speed shutter, macro mode  |
+| Level of Detail & Realism	             |  Precision and realism standard of the image	    | 4k, 8k, realistic, ultrarealistic, hyper-realistic |
+| Artist Names	                            |  Renowned names associated with painting and drawing styles    | Cézanne, Kahlo, Picasso, Dali  |
 
 
 
