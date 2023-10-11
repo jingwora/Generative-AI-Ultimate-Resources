@@ -38,10 +38,11 @@ This comprehensive table give a well-rounded understanding of the different comp
 
 ### Game Design
 
-| **Template** | **Prompts**  | **Engine**  | **Image**   |
-|--------------|-----------------|--------------|--------------|
-| **Charactor Design** <br> Pixal art of [charactor] [charactor's desciption], [Background] ,charactor turnarounds in one image, [Aspect Ratio] | Pixal art of warrior in golden armer with axes weapon in white background , charactor turnarounds in one image, 16:9 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Game-Design_Charactor-Design.png?raw=true" width="200"/> |
-
+| **Templates** | **Example Prompts**  | **Engine**  | **Images**   |
+|---------------|----------------------|-------------|--------------|
+| **Charactor Design** <br> Pixal art of [charactor] [charactor's desciption], [Background] ,charactor turnarounds in one image, [Aspect Ratio] | Pixal art of warrior in golden armer with axes weapon in white background , charactor turnarounds in one image, 16:9 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Game-Design_Charactor-Design.png?raw=true" width="500"/> |
+| **Armor Design** <br> Pixal art of [Theme] themed armor sets with accessary, [Background], [Aspect Ratio] | Pixal art of pirate themed armor sets with accessary in white background, 16:9 |  GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Game-Design_Armor-Design.png?raw=true" width="500"/> |
+| **Item Design** <br> Pixal art of [Theme] themed item and amulets sets, [Background], [Aspect Ratio] | Pixal art of magic themed item and amulets sets  in white background, 16:9 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Game-Design_Item-Design.png?raw=true" width="500"/> |
 
 
 
