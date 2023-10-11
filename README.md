@@ -46,6 +46,18 @@ This comprehensive table give a well-rounded understanding of the different comp
 | **Item Design** <br> Pixal art of [Theme] themed item and amulets sets; [Background]; [Aspect Ratio] | Pixal art of magic themed item and amulets sets; white background; 16:9 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Game-Design_Item-Design.png?raw=true" width="500"/> |
 | **Monster Design** <br> Pixal art of [monster] [monster's desciption] [Background], charactor turnarounds, [Aspect Ratio] | Pixal art of flying dragon with magical power; white background; charactor turnarounds; 16:9 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Game-Design_Monster-Design.png?raw=true" width="500"/> |
 
+
+### Printing Design
+
+| **Templates** | **Example Prompts**  | **Engine**  | **Images**   |
+|---------------|----------------------|-------------|--------------|
+| **Sticker Design** <br> Custom sticker with the words [Word] [detail]; [Background]; [Aspect Ratio] | Custom sticker with the words "Sakura" written in an elegant font decorated by watercolor butterflies, sakura and soft pastel hues ; isolated white background; 4:3 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Printing-Design_Sticker-Design.png?raw=true" width="500"/> |
+
+
+
+
+
+
 ## Tools
 
 runwayml: Image to Image
