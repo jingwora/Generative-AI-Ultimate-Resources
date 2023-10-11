@@ -3,10 +3,13 @@ Text-to-Image-Prompts-Resources is a dedicated source for valuable insights and 
 
 ## Prompt Quidelines:
 
-Different models seems to have different prompt technique , but all of them share a set of common characteristics
-
-- Vivid details and concrete language produce more predictable results.
-- Use ChatGPT to generate better text prompts or Image to Image generation
+- Different models seems to have different prompt technique , but all of them share a set of common characteristics
+- Clarity is Key: Ensure your prompt is precise and unambiguous. Clear instructions lead to relevant outputs.
+- Vivid Details & Concrete Language: Specific and concrete terms yield more predictable outcomes. For instance, specify "a Golden Retriever puppy" rather than just "a dog."
+- Specify the Desired Format: Direct the model by requesting a specific format or structure for its response, e.g., "Provide an outline of..." or "List in bullet points."
+- Utilize ChatGPT for Textual Prompts: Use ChatGPT to draft or refine your text prompts, offering variations or refining questions for better clarity.
+- Limitations & Boundaries: Clearly define any constraints or boundaries you want the model to adhere to. This can be especially important when seeking information within a specific domain or avoiding certain topics.
+- Stay Updated: As model capabilities evolve, stay abreast of platform or community guidelines to optimize your interactions.
 
 ## Prompt Component:
 
