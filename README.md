@@ -22,8 +22,7 @@ This comprehensive table give a well-rounded understanding of the different comp
 | Location                          | The place or setting where the subject/activity is situated   | in a forest, in studio, in the ocean, on a street, at a cafe, atop a hill |
 | Background                        | Additional information or context behind the main subject      | in a crowded market, during sunrise, amidst ruins, under a starry sky |
 | **Stylistic elements**            | -                                                               | - |
-| Style                             | The overall artistic or visual approach of the scene           | portrait, realistic 
- photograph, traditional oil painting, watercolor painting, abstract painting, illustration, surreal digital art, pencil drawing, charcoal sketch,  cartoon, anime, poster |
+| Style                             | The overall artistic or visual approach of the scene           | portrait, realistic photograph, traditional oil painting, watercolor painting, abstract painting, illustration, surreal digital art, pencil drawing, charcoal sketch,  cartoon, anime, poster |
 | Light                             | How the subject or scene is illuminated                        | bright colors, natural lighting, warm light, dramatic lighting, diffused light, bright, dark, Soft, warm sunlight, dimly, at night, moonlit, shadowy, under streetlights |
 | Color scheme                             | color schemes to influence the color of objects, light, or the entire image look and feel        | blue tone, black and white |
 | Angle                             | The perspective or vantage point of the scene                  | overhead, bird's-eye view, worm's-eye view, side view, frontal, diagonal, tilted, panoramic, close-up shot, realistic |
@@ -43,7 +42,15 @@ runwayml: Image to Image
 - Effortlessly transform an existing image to a modified image with our AI image generator from text.
 - https://runwayml.com/ai-magic-tools/image-to-image/
 
+neural.love
+- You can expand image beyond the limits of the frame, creating a larger image. 
+- https://neural.love/uncrop
+
+canva
+- Canva provides various AI photo editing tools including Text to Image, Magic Eraser, Magic Edit, Magic Write, Magic Design, Presentations, Beat Sync, Translate, etc.
+- https://www.canva.com/ai-image-generator/
 
 
-
-
+prompt ideas
+- openai's discord: https://discord.com/invite/openai
+- midjourney's discord: https://discord.com/invite/midjourney
