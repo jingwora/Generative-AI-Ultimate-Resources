@@ -22,7 +22,7 @@ This comprehensive table give a well-rounded understanding of the different comp
 | Location                          | The place or setting where the subject/activity is situated   | in a forest, in studio, in the ocean, on a street, at a cafe, atop a hill |
 | Background                        | Additional information or context behind the main subject      | in a crowded market, during sunrise, amidst ruins, under a starry sky, starry night backdrop |
 | **Stylistic elements**            | -                                                               | - |
-| Style                             | The overall artistic or visual approach of the scene           | portrait, realistic photograph, traditional oil painting, watercolor painting, abstract painting, illustration, surreal digital art, pencil drawing, charcoal sketch,  cartoon, anime, poster |
+| Style                             | The overall artistic or visual approach of the scene           | portrait, realistic photograph, traditional oil painting, watercolor painting, abstract painting, illustration, surreal digital art, pencil drawing, charcoal sketch,  cartoon, anime, poster, pixel art |
 | Light                             | How the subject or scene is illuminated                        | bright colors, natural lighting, warm light, dramatic lighting, diffused light, bright, dark, Soft, warm sunlight, dimly, at night, moonlit, shadowy, under streetlights |
 | Color Scheme                             | color schemes to influence the color of objects, light, or the entire image look and feel        | blue tone, black and white, monochrome |
 | Angle                             | The perspective or vantage point of the scene                  | overhead, bird's-eye view, worm's-eye view, ground-level, side-on, front-facing, side view, frontal, diagonal, tilted, panoramic, close-up shot, realistic |
@@ -34,7 +34,18 @@ This comprehensive table give a well-rounded understanding of the different comp
 
 
 
-## Prompt templates for DALL-E
+## Prompt templates
+
+### Game Design
+
+Charactor Design
+
+| **Template** | **Prompts**  | **Engine**  | **Image**   |
+|--------------|-----------------|--------------|--------------|
+| Charactor Design: Pixal art of [charactor] [charactor's desciption], [Background] ,charactor turnarounds in one image, [Aspect Ratio] | Pixal art of warrior in golden armer with axes weapon in white background , charactor turnarounds in one image, 16:9 | GPT-4 DALL-E3 |  |
+
+
+
 
 ## Tools
 
