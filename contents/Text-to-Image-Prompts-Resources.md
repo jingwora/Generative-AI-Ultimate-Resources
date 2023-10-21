@@ -43,22 +43,18 @@ This comprehensive table give a well-rounded understanding of the different comp
 
 | **Templates** | **Example Prompts**  | **Engine**  | **Images**   |
 |---------------|----------------------|-------------|--------------|
-| **Title Design** <br> Pixal art logo for a game  named [Title] [Theme]; large font; [Background]; [Aspect Ratio] | Pixal art  logo for a game  named "LION HERO" in forest theme; large font; white background; 1:1 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Game-Design_Title-Design.png?raw=true" width="500"/> |
-| **Charactor Design** <br> Pixal art of [charactor] [charactor's desciption], [Background] ,charactor turnarounds, [Aspect Ratio] | Pixal art of cute lion warrior in golden armer with axes weapon; white background; charactor turnarounds; 16:9 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Game-Design_Charactor-Design.png?raw=true" width="500"/> |
-| **Armor Design** <br> Pixal art of [Theme] themed armor sets with accessary, [Background], [Aspect Ratio] | Pixal art of pirate themed armor sets with accessary; white background; 16:9 |  GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Game-Design_Armor-Design.png?raw=true" width="500"/> |
-| **Item Design** <br> Pixal art of [Theme] themed item and amulets sets; [Background]; [Aspect Ratio] | Pixal art of magic themed item and amulets sets; white background; 16:9 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Game-Design_Item-Design.png?raw=true" width="500"/> |
-| **Monster Design** <br> Pixal art of [monster] [monster's desciption] [Background], charactor turnarounds, [Aspect Ratio] | Pixal art of flying dragon with magical power; white background; charactor turnarounds; 16:9 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Game-Design_Monster-Design.png?raw=true" width="500"/> |
+| **Title Design** <br> Pixal art logo for a game  named [Title] [Theme]; large font; [Background]; [Aspect Ratio] | Pixal art  logo for a game  named "LION HERO" in forest theme; large font; white background; 1:1 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Text-to-Image-Prompts-Resources/Game-Design_Title-Design.png?raw=true" width="500"/> |
+| **Charactor Design** <br> Pixal art of [charactor] [charactor's desciption], [Background] ,charactor turnarounds, [Aspect Ratio] | Pixal art of cute lion warrior in golden armer with axes weapon; white background; charactor turnarounds; 16:9 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Text-to-Image-Prompts-Resources/Game-Design_Charactor-Design.png?raw=true" width="500"/> |
+| **Armor Design** <br> Pixal art of [Theme] themed armor sets with accessary, [Background], [Aspect Ratio] | Pixal art of pirate themed armor sets with accessary; white background; 16:9 |  GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Text-to-Image-Prompts-Resources/Game-Design_Armor-Design.png?raw=true" width="500"/> |
+| **Item Design** <br> Pixal art of [Theme] themed item and amulets sets; [Background]; [Aspect Ratio] | Pixal art of magic themed item and amulets sets; white background; 16:9 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Text-to-Image-Prompts-Resources/Game-Design_Item-Design.png?raw=true" width="500"/> |
+| **Monster Design** <br> Pixal art of [monster] [monster's desciption] [Background], charactor turnarounds, [Aspect Ratio] | Pixal art of flying dragon with magical power; white background; charactor turnarounds; 16:9 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Text-to-Image-Prompts-Resources/Game-Design_Monster-Design.png?raw=true" width="500"/> |
 
 
 ### Printing Design
 
 | **Templates** | **Example Prompts**  | **Engine**  | **Images**   |
 |---------------|----------------------|-------------|--------------|
-| **Sticker Design** <br> Custom sticker with the words [Word] [detail]; [Background]; [Aspect Ratio] | Custom sticker with the words "Sakura" written in an elegant font decorated by watercolor butterflies, sakura and soft pastel hues ; isolated white background; 4:3 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Printing-Design_Sticker-Design.png?raw=true" width="500"/> |
-
-
-
-
+| **Sticker Design** <br> Custom sticker with the words [Word] [detail]; [Background]; [Aspect Ratio] | Custom sticker with the words "Sakura" written in an elegant font decorated by watercolor butterflies, sakura and soft pastel hues ; isolated white background; 4:3 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Text-to-Image-Prompts-Resources/Printing-Design_Sticker-Design.png?raw=true" width="500"/> |
 
 
 ## Tools
