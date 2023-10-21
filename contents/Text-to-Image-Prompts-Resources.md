@@ -58,21 +58,3 @@ This comprehensive table give a well-rounded understanding of the different comp
 | **Sticker Design** <br> Custom sticker with the words [Word] [detail]; [Background]; [Aspect Ratio] | Custom sticker with the words "Sakura" written in an elegant font decorated by watercolor butterflies, sakura and soft pastel hues ; isolated white background; 4:3 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Text-to-Image-Prompts-Resources/Printing-Design_Sticker-Design.png?raw=true" width="500"/> |
 
 
-## Tools
-
-runwayml: Image to Image
-- Effortlessly transform an existing image to a modified image with our AI image generator from text.
-- https://runwayml.com/ai-magic-tools/image-to-image/
-
-neural.love
-- You can expand image beyond the limits of the frame, creating a larger image. 
-- https://neural.love/uncrop
-
-canva
-- Canva provides various AI photo editing tools including Text to Image, Magic Eraser, Magic Edit, Magic Write, Magic Design, Presentations, Beat Sync, Translate, etc.
-- https://www.canva.com/ai-image-generator/
-
-
-prompt ideas
-- openai's discord: https://discord.com/invite/openai
-- midjourney's discord: https://discord.com/invite/midjourney
