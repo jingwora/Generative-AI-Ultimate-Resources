@@ -12,15 +12,15 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 
 | **Tools** | **Developer** | **Strengths** | **Links** |
 |-----|-----|-----|-----|
-| Midjourney | Midjourney | High-quality images. | [Links](https://www.midjourney.com/) |
-| Stable Diffusion | Stability AI |  Free and open-source, Quick image generation. | [Links](https://ja.stability.ai/stable-diffusion) |
-| DALL·E | OpenAI | Bing Image Creator and integrated with ChatGPT, Easy prompting.  | [Links](https://openai.com/dall-e-3) |
-| Adobe Firefly | Adobe | Adobe Firefly is a suite of generative AI tools developed by Adobe.  | [Links](https://firefly.adobe.com/) |
+| Midjourney | Midjourney | High-quality realistic and creative image | [Links](https://www.midjourney.com/) |
+| Stable Diffusion | Stability AI |  Open-source, High-quanlity image, No cencership | [Links](https://ja.stability.ai/stable-diffusion) |
+| DALL·E | OpenAI | Bing Image Creator and integrated with ChatGPT, Easy prompting, Good at text  | [Links](https://openai.com/dall-e-3) |
+| Adobe Firefly | Adobe | High-quality realistic and creative image | [Links](https://firefly.adobe.com/) |
 | Google’s Search Generative Experience (SGE)  | Google  | Available in Google search | [Links](https://firefly.adobe.com/) |
 | Canva | Canva | Graphic design platform | [Links](https://www.canva.com/ai-image-generator/) |
 | Nijijourney | Spellbrush and Midjourney | Focused on AI-generated anime art. | [Links](https://nijijourney.com/ja/) |
 
-#### Text-to-Image-Comparison by Matt Wolfe
+#### Text-to-Image-Comparison by Matt Wolfe (Oct 20, 2023)
 
 <img src="https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/images/Generative-AI-Ultimate-Resources/Text-to-Image-Comparison.png?raw=true" width="900"/>
 Source: [Youtube](https://www.youtube.com/watch?v=UsnyU-9mbKE)
