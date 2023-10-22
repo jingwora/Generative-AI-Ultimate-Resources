@@ -57,14 +57,4 @@ This comprehensive table give a well-rounded understanding of the different comp
 |---------------|----------------------|-------------|--------------|
 | **Sticker Design** <br> Custom sticker with the words [Word] [detail]; [Background]; [Aspect Ratio] | Custom sticker with the words "Sakura" written in an elegant font decorated by watercolor butterflies, sakura and soft pastel hues ; isolated white background; 4:3 | GPT-4 DALL-E3 | <img src="https://github.com/jingwora/Text-to-Image-Prompts-Resources/blob/main/images/Text-to-Image-Prompts-Resources/Printing-Design_Sticker-Design.png?raw=true" width="500"/> |
 
-## LLM serving
-
-Key metrics:
-1. **Time To First Token (TTFT)**: How quickly users start seeing the model's output after entering their query. Low waiting times for a response are essential in real-time interactions, but less important in offline workloads. (milliseconds)
-
-2. **Time Per Output Token (TPOT)**: Time to generate an output token for each user that is querying our system. (milliseconds/token)
-
-3. **Latency**: The overall time it takes for the model to generate the full response for a user. latency = (TTFT) + (TPOT) * (the number of tokens to be generated)
-
-4. **Throughput**: The number of output tokens per second an inference server can generate across all users and requests.
 
