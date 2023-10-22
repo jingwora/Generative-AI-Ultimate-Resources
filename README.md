@@ -22,7 +22,19 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 
 #### Text-to-Image-Comparison by Matt Wolfe (Oct 20, 2023)
 
-<img src="https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/images/Generative-AI-Ultimate-Resources/Text-to-Image-Comparison.png?raw=true" width="900"/>
+| CRITERIA           | MIDJOURNEY | MIDJOURNEY (RAW) | DALL-E 3 (CHAPTGPT) | DALL-E 3 (BING) | SDXL (LEONARDO) | FIREFLY 2 | GOOGLE | IDEOGRAM |
+|--------------------|------------|------------------|--------------------|-----------------|-----------------|-----------|--------|----------|
+| Accuracy           | 5          | 5.5              | 9                  | 9               | 6.5             | 6.5       | 7.2    | 6.7      |
+| Creativity         | 9          | 8                | 7.5                | 6               | 7.9             | 5         | 5.3    | 6.8      |
+| Realism            | 7.5        | 8.5              | 5                  | 6               | 6.3             | 8         | 3      | 4        |
+| Illustration       | 8          | 3                | 7                  | 7               | 7.8             | 7.5       | 6.5    | 6.8      |
+| Logos & Vectors    | 8          | 8                | 7.5                | 7.5             | 6               | 7.8       | 8.3    | 7.8      |
+| Textures &Backgrounds| 10       | 10               | 0                  | 0               | 10              | 10        | 0      | 0        |
+| Text In Image      | 0          | 0                | 7.5                | 7.5             | 4.5             | 1.5       | 7.7    | 7.6      |
+| Censorship         | 7.5        | 7.5              | 3                  | 6               | 10              | 1         | 7.5    | 10       |
+| Usability          | 5          | 5                | 8                  | 6               | 9               | 8         | 6      | 6.3      |
+| Price              | 6          | 6                | 5                  | 10              | 7.5             | 6.5       | 10     | 10       |
+
 Source: [Youtube](https://www.youtube.com/watch?v=UsnyU-9mbKE)
 
 ### 🎞️ Video Generator, Editor
