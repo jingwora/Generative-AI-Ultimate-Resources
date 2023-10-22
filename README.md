@@ -12,13 +12,13 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 
 | **Tools** | **Developer** | **Strengths** | **Links** |
 |-----|-----|-----|-----|
-| Midjourney | Midjourney | High-quality realistic and creative image | [Links](https://www.midjourney.com/) |
-| Stable Diffusion | Stability AI |  Open-source, High-quanlity image, No cencership | [Links](https://ja.stability.ai/stable-diffusion) |
-| DALL·E | OpenAI | Bing Image Creator and integrated with ChatGPT, Easy prompting, Good at text  | [Links](https://openai.com/dall-e-3) |
-| Adobe Firefly | Adobe | High-quality realistic and creative image | [Links](https://firefly.adobe.com/) |
-| Google’s Search Generative Experience (SGE)  | Google  | Available in Google search | [Links](https://firefly.adobe.com/) |
-| Canva | Canva | Graphic design platform | [Links](https://www.canva.com/ai-image-generator/) |
-| Nijijourney | Spellbrush and Midjourney | Focused on AI-generated anime art. | [Links](https://nijijourney.com/ja/) |
+| Midjourney | Midjourney | High-quality realistic and creative image | [🌐](https://www.midjourney.com/) |
+| Stable Diffusion | Stability AI |  Open-source, High-quanlity image, No cencership | [🌐](https://ja.stability.ai/stable-diffusion) |
+| DALL·E | OpenAI | Bing Image Creator and integrated with ChatGPT, Easy prompting, Good at text  | [🌐](https://openai.com/dall-e-3) |
+| Adobe Firefly | Adobe | High-quality realistic and creative image | [🌐](https://firefly.adobe.com/) |
+| Google’s Search Generative Experience (SGE)  | Google  | Available in Google search | [🌐](https://firefly.adobe.com/) |
+| Canva | Canva | Graphic design platform | [🌐](https://www.canva.com/ai-image-generator/) |
+| Nijijourney | Spellbrush and Midjourney | Focused on AI-generated anime art. | [🌐](https://nijijourney.com/ja/) |
 
 #### Text-to-Image-Comparison by Matt Wolfe (Oct 20, 2023)
 
@@ -29,7 +29,7 @@ Source: [Youtube](https://www.youtube.com/watch?v=UsnyU-9mbKE)
 
 | **Tools** | **Description** | **Links** |
 |-----|-----|-----|
-| Morph Studio | Text-to-Video Generator through Discord with good result. | [Links](https://www.morphstudio.xyz/) |
+| Morph Studio | Text-to-Video Generator through Discord with good result. | [🌐](https://www.morphstudio.xyz/) |
 
 prompt ideas
 - openai's discord: https://discord.com/invite/openai
