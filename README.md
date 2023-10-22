@@ -24,7 +24,7 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 
 | **Tools** | **Description** | **Links** |
 |-----|-----|-----|
-| Morph Studio | Text-to-Video Generator with good result. | [Links](https://www.morphstudio.xyz/) |
+| Morph Studio | Text-to-Video Generator through Discord with good result. | [Links](https://www.morphstudio.xyz/) |
 
 prompt ideas
 - openai's discord: https://discord.com/invite/openai
