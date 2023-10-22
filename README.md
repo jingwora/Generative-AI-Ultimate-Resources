@@ -20,6 +20,11 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 | Canva | Canva | Graphic design platform | [Links](https://www.canva.com/ai-image-generator/) |
 | Nijijourney | Spellbrush and Midjourney | Focused on AI-generated anime art. | [Links](https://nijijourney.com/ja/) |
 
+#### Text-to-Image-Comparison by Matt Wolfe
+
+<img src="https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/images/Generative-AI-Ultimate-Resources/Text-to-Image-Comparison.png?raw=true" width="900"/>
+Source: [Youtube](https://www.youtube.com/watch?v=UsnyU-9mbKE)
+
 ### 🎞️ Video Generator, Editor
 
 | **Tools** | **Description** | **Links** |
