@@ -8,7 +8,7 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 
 ## Tools
 
-### Image Generator, Editor
+### 🖼️ Image Generator, Editor
 
 | **Tools** | **Description** | **Links** |
 |-----|-----|-----|
@@ -19,6 +19,12 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 | Canva | Canva provides various AI photo editing tools including Text to Image, Magic Eraser, Magic Edit, Magic Write, Magic Design, Presentations, Beat Sync, Translate, etc.  | [Links](https://www.canva.com/ai-image-generator/) |
 | neural.love | Expand image beyond the limits of the frame, creating a larger image.  | [Links](https://neural.love/uncrop) |
 | runwayml | Transform an existing image to a modified image with our AI image generator from text.  | [Links](https://runwayml.com/ai-magic-tools/image-to-image/) |
+
+### 🎞️ Video Generator, Editor
+
+| **Tools** | **Description** | **Links** |
+|-----|-----|-----|
+| Morph Studio | Text-to-Video Generator with good result. | [Links](https://www.morphstudio.xyz/) |
 
 prompt ideas
 - openai's discord: https://discord.com/invite/openai
