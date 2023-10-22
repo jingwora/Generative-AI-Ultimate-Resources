@@ -8,9 +8,6 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 
 ## Tools
 
-runwayml: Image to Image
- 
-
 ### Image Generator, Editor
 
 | **Tools** | **Description** | **Links** |
