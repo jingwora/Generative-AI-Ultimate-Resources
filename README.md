@@ -20,7 +20,22 @@ canva
 - Canva provides various AI photo editing tools including Text to Image, Magic Eraser, Magic Edit, Magic Write, Magic Design, Presentations, Beat Sync, Translate, etc.
 - https://www.canva.com/ai-image-generator/
 
-
 prompt ideas
 - openai's discord: https://discord.com/invite/openai
-- midjourney's discord: https://discord.com/invite/midjourney
+- Midjourney's discord: https://discord.com/invite/midjourney
+
+Text to Image Generator
+
+| **Tools** | **Description** | **Links** |
+|-----|-----|-----|
+| Midjourney | A text-to-image generator accessible via a browser or through Discord bot commands, renowned for producing realistic high-quality images. | [Links](https://www.midjourney.com/) |
+| Nijijourney | A collaborative project between Spellbrush and Midjourney, focused on AI-generated anime art. | [Links](https://nijijourney.com/ja/) |
+| Stable Diffusion | A free and open-source alternative to Midjourney that can be installed locally, well known for quick image generation. | [Links](https://ja.stability.ai/stable-diffusion) |
+| DALL·E | The image generator, accessible through Bing Image Creator and integrated with ChatGPT, is well-known for its user-friendly prompting features.  | [Links](https://openai.com/dall-e-3) |
+
+
+
+
+
+
+
