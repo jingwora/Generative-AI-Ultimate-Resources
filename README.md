@@ -13,10 +13,11 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 | **Tools** | **Description** | **Links** |
 |-----|-----|-----|
 | Midjourney | A text-to-image generator accessible via a browser or through Discord bot commands, renowned for producing realistic high-quality images. | [Links](https://www.midjourney.com/) |
-| Nijijourney | A collaborative project between Spellbrush and Midjourney, focused on AI-generated anime art. | [Links](https://nijijourney.com/ja/) |
 | Stable Diffusion | A free and open-source alternative to Midjourney that can be installed locally, well known for quick image generation. | [Links](https://ja.stability.ai/stable-diffusion) |
 | DALL·E | The image generator, accessible through Bing Image Creator and integrated with ChatGPT, is well-known for its user-friendly prompting features.  | [Links](https://openai.com/dall-e-3) |
+| Adobe Firefly | Adobe Firefly is a suite of generative AI tools developed by Adobe.  | [Links](https://firefly.adobe.com/) |
 | Canva | Canva provides various AI photo editing tools including Text to Image, Magic Eraser, Magic Edit, Magic Write, Magic Design, Presentations, Beat Sync, Translate, etc.  | [Links](https://www.canva.com/ai-image-generator/) |
+| Nijijourney | A collaborative project between Spellbrush and Midjourney, focused on AI-generated anime art. | [Links](https://nijijourney.com/ja/) |
 | neural.love | Expand image beyond the limits of the frame, creating a larger image.  | [Links](https://neural.love/uncrop) |
 | runwayml | Transform an existing image to a modified image with our AI image generator from text.  | [Links](https://runwayml.com/ai-magic-tools/image-to-image/) |
 
