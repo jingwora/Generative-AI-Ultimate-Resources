@@ -1,5 +1,5 @@
 [<< HOME ](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/README.md)
-# LLM Deployment
+# LLM Inference Best Practices
 
 ## LLM serving
 
