@@ -3,16 +3,17 @@ AI-Agents-Resources is a robust repository catering to the expansive world of ar
 
 
 
-### OpenAgents
+### AutoGen
 - Microsoft
 - AutoGen is a framework that enables the development of LLM applications using multiple agents that can converse with each other to solve tasks. AutoGen agents are customizable, conversable, and seamlessly allow human participation. They can operate in various modes that employ combinations of LLMs, human inputs, and tools.
 - [Github](https://github.com/microsoft/autogen)
 
 
 ### OpenAgents
-- 
 - Language agent frameworks aim to facilitate the construction of proof-of-concept language agents while neglecting the non-expert user
 - [Github](https://github.com/xlang-ai/OpenAgents)
 
 
-
+### XAgent
+- XAgent, an autonomous agent targeting the realization of complex task-solving in an autonomous manner.
+- [Website](https://blog.x-agent.net/blog/xagent/)
