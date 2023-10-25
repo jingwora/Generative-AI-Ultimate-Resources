@@ -44,7 +44,8 @@ Source: [Youtube](https://www.youtube.com/watch?v=UsnyU-9mbKE)
 
 | **Tools** | **Description** | **Links** |
 |-----|-----|-----|
-| Morph Studio | Text-to-Video Generator through Discord with good result. | [🌐](https://www.morphstudio.xyz/) |
+| Gen-2 Runway | Video, image 3D AI generator | [🌐](https://research.runwayml.com/gen2) |
+| Morph Studio | Text-to-Video Generator through Discord. | [🌐](https://www.morphstudio.xyz/) |
 
 prompt ideas
 - openai's discord: https://discord.com/invite/openai
