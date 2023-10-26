@@ -6,7 +6,7 @@
 
 - Prompting based on Example
   - [Zero-shot prompting](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/Prompt-engineering-master.md#zero-shot-prompting)
-  - Few-shot prompting
+  - [Few-shot prompting](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/Prompt-engineering-master.md#few-shot-prompting)
   - Few-shot Chain of Thoughts
   - Zero-shot Chain of Thoughts (step by step)
 
@@ -41,6 +41,14 @@
 ## Zero-shot prompting
 Zero-shot prompting enables a machine learning model to tackle new tasks without extra training, by using detailed instructions provided in the input.
 
+```
+prompt = """Classify the text into neutral, negative or positive. 
+Text: I think the vacation is great.
+Sentiment:"""
+```
+```
+Response = "Sentiment: Positive"
+```
 
-
+## Few-shot prompting
 
