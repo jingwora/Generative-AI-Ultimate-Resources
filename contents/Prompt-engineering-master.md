@@ -5,7 +5,7 @@
 ## Prompt engineering techniques
 
 - Prompting based on Example
-  - [Zero-shot prompting](https://github.com/jingwora/Generative-AI-Ultimate-Resources/edit/main/contents/Prompt-engineering-master.md#zero-shot-prompting)
+  - [Zero-shot prompting](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/Prompt-engineering-master.md#zero-shot-prompting)
   - Few-shot prompting
   - Few-shot Chain of Thoughts
   - Zero-shot Chain of Thoughts (step by step)
