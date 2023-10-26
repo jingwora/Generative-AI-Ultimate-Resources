@@ -5,7 +5,7 @@
 ## Prompt engineering techniques
 
 - Prompting based on Example
-  - Zero-shot prompting
+  - [Zero-shot prompting](https://github.com/jingwora/Generative-AI-Ultimate-Resources/edit/main/contents/Prompt-engineering-master.md#zero-shot-prompting)
   - Few-shot prompting
   - Few-shot Chain of Thoughts
   - Zero-shot Chain of Thoughts (step by step)
@@ -37,3 +37,10 @@
   - Chain of density(CoD)
   - EchoPrompt
   - Inferential Exclusion Prompting(IEP)
+
+## Zero-shot prompting
+Zero-shot prompting enables a machine learning model to tackle new tasks without extra training, by using detailed instructions provided in the input.
+
+
+
+
