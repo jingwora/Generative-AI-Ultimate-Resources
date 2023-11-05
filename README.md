@@ -20,6 +20,7 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 | Midjourney | Midjourney | High-quality realistic and creative image | [🌐](https://www.midjourney.com/) |
 | Stable Diffusion | Stability AI |  Open-source, High-quanlity image, No cencership | [🌐](https://ja.stability.ai/stable-diffusion) |
 | DALL·E | OpenAI | Bing Image Creator and integrated with ChatGPT, Easy prompting, Good at text  | [🌐](https://openai.com/dall-e-3) |
+| ideogram | ideogram | Good at text, Minimal cencership | [🌐](https://ideogram.ai/) |
 | Adobe Firefly | Adobe | High-quality realistic and creative image | [🌐](https://firefly.adobe.com/) |
 | Google’s Search Generative Experience (SGE)  | Google  | Available in Google search | [🌐](https://firefly.adobe.com/) |
 | Canva | Canva | Graphic design platform | [🌐](https://www.canva.com/ai-image-generator/) |
