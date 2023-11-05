@@ -7,6 +7,8 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 - [Image-to-Image-Resources](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/Image-to-Image-Resources.md)
 - [AI-Agents-Resources](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/AI-Agents-Resources.md)
 - [LLM-Inference-Best-Practices](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/LLM-Inference-Best-Practices.md)
+- [Prompt engineering master](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/Prompt-engineering-master.md)
+- [LLM-日本](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/LLM-Japan.md)
 
 
 ## Tools
