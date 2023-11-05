@@ -38,6 +38,11 @@
   - EchoPrompt
   - Inferential Exclusion Prompting(IEP)
 
+- New Technique
+  - EmotionPrompt:  improve both truthfulness, informativeness and performance.
+  - Example: This is very important to my career. You'd better to be sure. | Believe in your abiliteis and strive for the excellence.
+  - [Website](https://llm-enhance.github.io/)
+
 ## Zero-shot prompting
 Zero-shot prompting enables a machine learning model to tackle new tasks without extra training, by using detailed instructions provided in the input.
 
