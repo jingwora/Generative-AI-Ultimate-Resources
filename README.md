@@ -25,6 +25,7 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 | Google’s Search Generative Experience (SGE)  | Google  | Available in Google search | [🌐](https://firefly.adobe.com/) |
 | Canva | Canva | Graphic design platform | [🌐](https://www.canva.com/ai-image-generator/) |
 | Nijijourney | Spellbrush and Midjourney | Focused on AI-generated anime art. | [🌐](https://nijijourney.com/ja/) |
+|  LCM Text to Image  | - | Real-Time Text to Image  | [🌐](https://huggingface.co/spaces/radames/Real-Time-Latent-Consistency-Model-Text-To-Image) |
 
 #### Text-to-Image-Comparison by Matt Wolfe (Oct 20, 2023)
 
