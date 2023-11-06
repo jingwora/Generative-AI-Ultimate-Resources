@@ -41,3 +41,6 @@
 |-----|-----|-----|-----|
 | CoeFont (コエフォント) | - | 低コストのテキストツースピーチサービス | [🌐](https://esg.coefont.cloud/) |
 | resumy | - | 職務経歴書作成サービス | [🌐](https://www.resumy.ai/) |
+
+
+![img](https://d3kqjh0d0ujjwo.cloudfront.net/static/images/article/2082/2082_fig01.png)
