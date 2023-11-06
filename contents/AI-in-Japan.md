@@ -1,6 +1,6 @@
 # 日本でのAI
 
-
+日本語の大規模言語モデル（LLM）の最新の進歩、技術、応用例に特化し、洞察を共有するために捧げられています。LLMが日本でどのようにカスタマイズされているかを探求し、最先端の研究や手法、実践的な応用例、市場動向まで、幅広い情報を提供します。
 
 ### 日本語LLM
 
@@ -20,7 +20,7 @@
 | GPT3.5, GPT-4 | OpenAI | 一番強いモデル、日本語対応 | GPT-3.5 Turbo [4K、16k]（20B?）、gpt-4 [8K、32k]　(150B?) |　- | [🌐](https://group.ntt/jp/magazine/blog/tsuzumi/) |
 | Claude | Anthropic | 最大トークン、日本語対応 | [100k] |　- | [🌐](https://www.anthropic.com/index/claude-2) |
 
-
+----
 
 ### 埋め込み
 
