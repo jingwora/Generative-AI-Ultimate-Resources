@@ -26,8 +26,8 @@
 
 | **サービス** | **開発者** | **特長** | モデル |ライセンス | **リング** |
 |-----|-----|-----|-----|-----|-----|
-| multilingual-e5 | intfloat |  JEE：0.832| large、base、small、 [size=1024] |　MIT License​ | [🌐](https://group.ntt/jp/magazine/blog/tsuzumi/) |
-| text-embedding-ada-002 | OpenAI |  JEE：0.832|  [size=1536] |　- | [🌐](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings) |
+| multilingual-e5 | intfloat |  JEE：0.832 | large、base、small、 [size=1024] |　MIT License​ | [🌐](https://group.ntt/jp/magazine/blog/tsuzumi/) |
+| text-embedding-ada-002 | OpenAI |  JEE：0.768 |  [size=1536] |　- | [🌐](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings) |
 
 日本語の埋め込みの評価：
 - JapaneseEmbeddingEval
