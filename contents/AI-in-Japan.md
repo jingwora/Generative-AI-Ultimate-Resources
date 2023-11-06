@@ -43,4 +43,6 @@
 | resumy | - | 職務経歴書作成サービス | [🌐](https://www.resumy.ai/) |
 
 
+### 生成AI関連サービス
+
 ![img](https://d3kqjh0d0ujjwo.cloudfront.net/static/images/article/2082/2082_fig01.png)
