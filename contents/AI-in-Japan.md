@@ -11,6 +11,11 @@
 | Youri | rinna | Llama2のベース | 7B、base、Instruction、chat、gptq、… | LLAMA 2 Community License | [🌐](https://rinna.co.jp/news/2023/10/20231031.html)　[HF](https://huggingface.co/rinna) |
 | Japanese Stable LM | Stability AI | Llama2のベース | 7B、70B、base、instruct、JA-Vocab、… | LLAMA 2 Community License | [🌐](https://ja.stability.ai/blog/japanese-stable-lm-beta)　[HF](https://huggingface.co/rinna) |
 
+### LLM API
+
+| **サービス** | **開発者** | **特長** | モデル |ライセンス | **リング** |
+|-----|-----|-----|-----|-----|-----|
+| GPT3.5, GPT-4 | OpenAI | 一番強い gpt-4 [8K、32k] GPT-3.5 Turbo [4K、16k] | (150B?) |　- | [🌐](https://group.ntt/jp/magazine/blog/tsuzumi/) |
 
 
 ### サービス
