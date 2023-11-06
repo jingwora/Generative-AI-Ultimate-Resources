@@ -32,7 +32,7 @@
 日本語の埋め込みの評価：
 - JapaneseEmbeddingEval
   - JSTS valid-v1.1、JSICK、MIRACL	
-  - (Github)[https://github.com/oshizo/JapaneseEmbeddingEval] 
+  - [Github](https://github.com/oshizo/JapaneseEmbeddingEval) 
 
 
 ### サービス
