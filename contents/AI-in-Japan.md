@@ -22,6 +22,16 @@
 
 
 
+### 埋め込み（Embeddings）
+
+| **サービス** | **開発者** | **特長** | モデル |ライセンス | **リング** |
+|-----|-----|-----|-----|-----|-----|
+| GPT3.5, GPT-4 | OpenAI | 一番強いモデル、日本語対応 | GPT-3.5 Turbo [4K、16k]（20B?）、gpt-4 [8K、32k]　(150B?) |　- | [🌐](https://group.ntt/jp/magazine/blog/tsuzumi/) |
+
+日本語の埋め込みの評価：
+- JapaneseEmbeddingEval
+  - JSTS valid-v1.1、JSICK、MIRACL	
+  - (Github)[https://github.com/oshizo/JapaneseEmbeddingEval] 
 
 
 ### サービス
