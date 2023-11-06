@@ -11,6 +11,7 @@
 | Youri | rinna | Llama2のベース | 7B、base、Instruction、chat、gptq、… [4096] | LLAMA 2 Community License | [🌐](https://rinna.co.jp/news/2023/10/20231031.html)　[HF](https://huggingface.co/rinna) |
 | Japanese Stable LM | Stability AI | Llama2のベース | 7B、70B、base、instruct、JA-Vocab、… [4096] | LLAMA 2 Community License | [🌐](https://ja.stability.ai/blog/japanese-stable-lm-beta)　[HF](https://huggingface.co/collections/stabilityai/japanese-stable-lm-654063a381a8731a1c0f13cc) |
 | ELYZA | ELYZA | Llama2のベース | 7B、instruct、fast、[32000, 45043]… | LLAMA 2 Community License | [🌐](https://zenn.dev/elyza/articles/2fd451c944649d)　[HF](https://huggingface.co/elyza) |
+| Stockmark | Stockmark | Llama2のベース、ビジネスドメインの対応 | 13B、[32000, 45043]… | LLAMA 2 Community License | [🌐](https://weel.co.jp/media/stockmark-13b)　[HF](https://huggingface.co/stockmark/stockmark-13b) |
 
 ### LLM API
 
