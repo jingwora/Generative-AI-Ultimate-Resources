@@ -22,11 +22,12 @@
 
 
 
-### 埋め込み（Embeddings）
+### 埋め込み
 
 | **サービス** | **開発者** | **特長** | モデル |ライセンス | **リング** |
 |-----|-----|-----|-----|-----|-----|
-| GPT3.5, GPT-4 | OpenAI | 一番強いモデル、日本語対応 | GPT-3.5 Turbo [4K、16k]（20B?）、gpt-4 [8K、32k]　(150B?) |　- | [🌐](https://group.ntt/jp/magazine/blog/tsuzumi/) |
+| multilingual-e5 | intfloat |  JEE：0.832| large、base、small、 [size=1024] |　MIT License​ | [🌐](https://group.ntt/jp/magazine/blog/tsuzumi/) |
+| text-embedding-ada-002 | OpenAI |  JEE：0.832|  [size=1536] |　- | [🌐](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings) |
 
 日本語の埋め込みの評価：
 - JapaneseEmbeddingEval
