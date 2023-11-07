@@ -2,6 +2,12 @@
 
 "Prompt engineering master" is a comprehensive repository dedicated to advanced methodologies and techniques in the realm of prompt engineering. Moving beyond the basics, this resource delves deep into the intricacies of crafting, refining, and optimizing prompts for various applications.
 
+
+### Openai
+- Best practices for prompt engineering [🌐](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+- Prompt engineering guides [🌐](https://platform.openai.com/docs/guides/prompt-engineering)
+
+
 ## Prompt engineering techniques
 
 - Prompting based on Example
