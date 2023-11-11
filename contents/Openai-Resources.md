@@ -1,4 +1,7 @@
 
+## OpenAI Tech Stack
+
+<img src="https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/images/Openai-Resources/OpenAI-tech-stack.png?raw=true" width="900"/>
 
 - GPT3/4: Large language model  [Doc](https://platform.openai.com/docs/guides/text-generation)
 - DALL-E4: Text-to-Image Model  [Doc](https://platform.openai.com/docs/models/dall-e)
