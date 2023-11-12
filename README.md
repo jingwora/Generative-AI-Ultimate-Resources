@@ -9,7 +9,7 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
 - [LLM-Inference-Best-Practices](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/LLM-Inference-Best-Practices.md)
 - [Prompt engineering master](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/Prompt-engineering-master.md)
 - [日本でのAI](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/AI-in-Japan.md)
-
+- [OpenAI's Resources](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/Openai-Resources.md)
 
 ## Tools
 
