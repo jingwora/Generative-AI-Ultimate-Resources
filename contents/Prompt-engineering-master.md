@@ -65,3 +65,5 @@ Response = "Sentiment: Positive"
 
 ## Few-shot prompting
 
+Resources:
+- https://learnprompting.org/docs/category/-applied-prompting
