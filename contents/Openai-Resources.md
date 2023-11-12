@@ -9,13 +9,6 @@
 - GPT-4V: Image-to-Text Model  [Doc](https://platform.openai.com/docs/guides/vision)
 - Whisper: Speech-to-Text  [Doc](https://platform.openai.com/docs/models/whisper)
 - Embedding: To convert text to contextual semantic meaning value  [Doc](https://platform.openai.com/docs/models/embeddings)
-- 
-
-Moderation: 
-- API to check whether content complies with OpenAI's usage policies. 
-- [Doc](https://platform.openai.com/docs/guides/moderation)
-
-GPTs 
-
-Limitations:
-
+- Moderation: Filters harmful content, adheres to ethical guidelines. [Doc](https://platform.openai.com/docs/guides/moderation)
+- Assistants API: Build AI assistants within your own applications. [Doc](https://platform.openai.com/docs/assistants/overview/agents)
+- GPTs:  Create custom versions of ChatGPT. [Doc](https://platform.openai.com/docs/plugins/introduction)
