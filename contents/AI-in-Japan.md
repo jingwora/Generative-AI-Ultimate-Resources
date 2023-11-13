@@ -30,10 +30,6 @@
 | multilingual-e5 | intfloat |  JEE：0.832 | large、base、small、 [size=1024] |　MIT License​ | [🌐](https://group.ntt/jp/magazine/blog/tsuzumi/) |
 | text-embedding-ada-002 | OpenAI |  JEE：0.768 |  [size=1536] |　- | [🌐](https://platform.openai.com/docs/guides/embeddings/what-are-embeddings) |
 
-日本語の埋め込みの評価：
-- JapaneseEmbeddingEval
-  - JSTS valid-v1.1、JSICK、MIRACL	
-  - [Github](https://github.com/oshizo/JapaneseEmbeddingEval) 
 
 ----
 
@@ -42,7 +38,7 @@
 - Hallucination Leaderboard [🌐](https://github.com/vectara/hallucination-leaderboard) 
 - ＯpenLLM Leaderboard [🌐](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) 
 - Massive Text Embedding Benchmark (MTEB) Leaderboard [🌐](https://huggingface.co/spaces/mteb/leaderboard) 
-
+- JapaneseEmbeddingEval [🌐](https://github.com/oshizo/JapaneseEmbeddingEval) 
 ----
 
 ### サービス
