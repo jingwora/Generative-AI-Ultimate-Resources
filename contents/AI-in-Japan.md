@@ -39,8 +39,10 @@
 - Chatbot Areana Leaderboard [🌐](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)  
 - Hallucination Leaderboard [🌐](https://github.com/vectara/hallucination-leaderboard) 
 - ＯpenLLM Leaderboard [🌐](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) 
+- Massive Text Embedding Benchmark (MTEB) Leaderboard [🌐](https://huggingface.co/spaces/mteb/leaderboard) 
 
 
+----
 
 ### サービス
 
