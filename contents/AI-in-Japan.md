@@ -35,6 +35,12 @@
   - JSTS valid-v1.1、JSICK、MIRACL	
   - [Github](https://github.com/oshizo/JapaneseEmbeddingEval) 
 
+### モデル評価：
+- Chatbot Areana Leaderboard [🌐](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)  
+- Hallucination Leaderboard [🌐](https://github.com/vectara/hallucination-leaderboard) 
+- ＯpenLLM Leaderboard [🌐](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard) 
+
+
 
 ### サービス
 
