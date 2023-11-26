@@ -62,6 +62,7 @@ prompt ideas
 
 
 
+![img](https://d3kqjh0d0ujjwo.cloudfront.net/static/images/article/2082/2082_fig01.png)
 
 
 
