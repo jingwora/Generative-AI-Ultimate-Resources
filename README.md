@@ -66,5 +66,5 @@ prompt ideas
 
 ![img](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/images/Generative-AI-Ultimate-Resources/writerbuddy-50-most-visited-AI-tools.png)
 
-
+Source: https://writerbuddy.ai/blog/ai-industry-analysis
 
