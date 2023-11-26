@@ -60,9 +60,11 @@ prompt ideas
 - openai's discord: https://discord.com/invite/openai
 - Midjourney's discord: https://discord.com/invite/midjourney
 
+### Info
 
+50 most visited AI tools
 
-![img](https://d3kqjh0d0ujjwo.cloudfront.net/static/images/article/2082/2082_fig01.png)
+![img](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/images/Generative-AI-Ultimate-Resources/writerbuddy-50-most-visited-AI-tools.png)
 
 
 
