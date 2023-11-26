@@ -48,6 +48,10 @@
 | CoeFont (コエフォント) | - | 低コストのテキストツースピーチサービス | [🌐](https://esg.coefont.cloud/) |
 | resumy | - | 職務経歴書作成サービス | [🌐](https://www.resumy.ai/) |
 
+ビジネス活用
+- 日立が生成AIで自動運転システム開発を効率化 [🌐](https://www.nikkei.com/article/DGXZQODB213K10R21C23A1000000/)
+- ビズリーチ、生成AIで企業の求人票作成最短30秒 [🌐](https://www.nikkei.com/article/DGXZQOUC14CST0U3A111C2000000/)
+- FORCAS、「AI企業課題サジェスト」機能に非上場企業約2万社追加 [🌐](https://furusato.press/2023/11/17/forcas%E3%80%81%E3%80%8Cai%E4%BC%81%E6%A5%AD%E8%AA%B2%E9%A1%8C%E3%82%B5%E3%82%B8%E3%82%A7%E3%82%B9%E3%83%88%E3%80%8D%E6%A9%9F%E8%83%BD%E3%81%AB%E9%9D%9E%E4%B8%8A%E5%A0%B4%E4%BC%81%E6%A5%AD%E7%B4%842/)
 
 ### 生成AI関連サービス
 
