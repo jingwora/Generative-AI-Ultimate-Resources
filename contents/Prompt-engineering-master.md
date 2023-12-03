@@ -8,7 +8,7 @@
 - Prompt engineering guides [🌐](https://platform.openai.com/docs/guides/prompt-engineering)
 - Production best practices [🌐](https://platform.openai.com/docs/guides/production-best-practices)
 - Safety best practices [🌐](https://platform.openai.com/docs/guides/safety-best-practices)
-
+- Prompt examples [🌐](https://platform.openai.com/examples)
 
 ## Prompt engineering techniques
 
