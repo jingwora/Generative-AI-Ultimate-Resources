@@ -71,3 +71,19 @@ Tokenization is the process of breaking down a text or a sentence into smaller u
 - Ref: https://huggingface.co/learn/nlp-course/chapter6/7?fw=pt
 
 https://colab.research.google.com/drive/195fDdYA-dfMYIRPbPEv3VvaJ-_cD5SKD?usp=sharing
+
+## Normalizer
+
+Lowercase: Description: Simply converts all text to lowercase.
+
+NFC: Description: Normalizes text into NFC (Normalization Form C) Unicode format.
+
+NFD: Description: Normalizes text into NFD (Normalization Form D) Unicode format.
+
+NFKC: Description: Normalizes text into NFKC (Normalization Form KC) Unicode format.
+
+NFKD: Description: Normalizes text into NFKD (Normalization Form KD) Unicode format.
+
+Nmt: Description: NMT (Neural Machine Translation) normalizer, typically used in machine translation preprocessing.
+
+
