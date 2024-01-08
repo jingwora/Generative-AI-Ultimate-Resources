@@ -51,17 +51,29 @@
   - Example: This is very important to my career. You'd better to be sure. | Believe in your abiliteis and strive for the excellence.
   - [Website](https://llm-enhance.github.io/)
 
-## Zero-shot prompting
-Zero-shot prompting enables a machine learning model to tackle new tasks without extra training, by using detailed instructions provided in the input.
+## Tools
 
-```
-prompt = """Classify the text into neutral, negative or positive. 
-Text: I think the vacation is great.
-Sentiment:"""
-```
-```
-Response = "Sentiment: Positive"
-```
+| Name                   | Description                                                                                                      | URL                                  |
+|------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------|
+| **LlamaIndex**         | A project offering data structures for seamless integration of large knowledge bases with LLMs.                  | [Github](https://github.com/jerryjliu/gpt_index)           |
+| **Promptify**          | A tool for solving NLP problems using LLMs, facilitating prompt generation for models like GPT, PaLM, etc.       | [Github](https://github.com/promptslab/Promptify)             |
+| **Arize-Phoenix**      | An open-source ML observability tool for notebook environments, aiding in monitoring and tuning various models. | [Github](https://github.com/Arize-ai/phoenix)     |
+| **Better Prompt**      | A testing suite for evaluating LLM prompts before production deployment.                                        | [Github](https://github.com/krrishdholakia/betterprompt)      |
+| **CometLLM**           | A tool to log, visualize, and evaluate aspects of LLM prompts and their variables.                              | [Github](https://github.com/comet-ml/comet-llm)               |
+| **Embedchain**         | A framework for creating ChatGPT-like bots using specific datasets.                                             | [Github](https://github.com/embedchain/embedchain)           |
+| **Interactive Composition Explorer** | ICE: A Python library with a trace visualizer for language model programming.                            | [Github](https://github.com/oughtinc/ice) |
+| **Haystack**           | An open-source NLP framework for data interaction using LLMs and Transformers.                                  | [Github](https://github.com/deepset-ai/haystack)               |
+| **LangChain**          | A tool for building LLM applications focusing on composability.                                                  | [Github](https://github.com/hwchase17/langchain)             |
+| **OpenPrompt**         | An open-source framework designed for prompt-learning.                                                           | [Github](https://github.com/thunlp/OpenPrompt)           |
+| **Prompt Engine**      | A utility library for creating and maintaining LLM prompts, available as an NPM package.                         | [Github](https://github.com/microsoft/prompt-engine)      |
+| **PromptInject**       | A modular framework for assembling prompts and analyzing LLM robustness against adversarial prompt attacks.      | [Github](https://github.com/agencyenterprise/PromptInject)       |
+| **Prompts AI**         | An advanced playground for experimenting with GPT-3.                                                            | [Github](https://github.com/sevazhidkov/prompts-ai)            |
+| **Prompt Source**      | A toolkit for creating, sharing, and using natural language prompts.                                             | [Github](https://github.com/bigscience-workshop/promptsource)      |
+| **ThoughtSource**      | A framework dedicated to the science of machine thinking.                                                        | [Github](https://github.com/OpenBioLink/ThoughtSource)     |
+| **PROMPTMETHEUS**      | A toolkit for one-shot prompt engineering.                                                                       | [Link](https://promptmetheus.com/)                 |
+| **AI Config**          | A configuration-based framework for building applications with LLMs.                                             | [Github](https://github.com/lastmile-ai/aiconfig)              |
+| **LastMile AI**        | A notebook-like interface for interacting with LLMs across text, speech, audio, and image modalities.            | [Link](https://lastmileai.dev/)                      |
+
 
 ## Few-shot prompting
 
