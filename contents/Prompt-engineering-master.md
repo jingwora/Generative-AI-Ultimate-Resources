@@ -67,9 +67,6 @@
 
 | Name                   | Description                                                                                                      | URL                                  |
 |------------------------|------------------------------------------------------------------------------------------------------------------|--------------------------------------|
-| **LlamaIndex**         | A project offering data structures for seamless integration of large knowledge bases with LLMs.                  | [Doc](https://docs.llamaindex.ai/en/stable/)           |
-| **LangChain**          | A tool for building LLM applications focusing on composability.                                                  | [Doc](https://python.langchain.com/docs/get_started/introduction)             |
-| **Haystack**           | An open-source NLP framework for data interaction using LLMs and Transformers.                                  | [Github](https://github.com/deepset-ai/haystack)               |
 | **Promptify**          | A tool for solving NLP problems using LLMs, facilitating prompt generation for models like GPT, PaLM, etc.       | [Doc](https://promptify.readthedocs.io/en/latest/)             |
 | **Arize-Phoenix**      | An open-source ML observability tool for notebook environments, aiding in monitoring and tuning various models. | [Doc](https://docs.arize.com/phoenix)     |
 | **Better Prompt**      | A testing suite for evaluating LLM prompts before production deployment.                                        | [Github](https://github.com/krrishdholakia/betterprompt)      |
