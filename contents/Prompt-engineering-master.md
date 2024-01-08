@@ -9,6 +9,8 @@
 - Production best practices [🌐](https://platform.openai.com/docs/guides/production-best-practices)
 - Safety best practices [🌐](https://platform.openai.com/docs/guides/safety-best-practices)
 - Prompt examples [🌐](https://platform.openai.com/examples)
+- Applied-prompting [🌐](https://learnprompting.org/docs/category/-applied-prompting)
+
 
 ## Prompt engineering techniques
 
@@ -75,7 +77,3 @@
 | **LastMile AI**        | A notebook-like interface for interacting with LLMs across text, speech, audio, and image modalities.            | [Link](https://lastmileai.dev/)                      |
 
 
-## Few-shot prompting
-
-Resources:
-- https://learnprompting.org/docs/category/-applied-prompting
