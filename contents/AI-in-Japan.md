@@ -19,6 +19,7 @@
 |-----|-----|-----|-----|-----|-----|
 | OpenAI API | OpenAI | 一番強いモデル、日本語対応 | GPT-3.5 Turbo [4K、16k]（20B?）、gpt-4 [8K、32k]　(150B?)、 gpt-4 Turbo [128K] |　- | [🌐](https://group.ntt/jp/magazine/blog/tsuzumi/) |
 | Claude | Anthropic | 最大トークン、日本語対応 | Claude2 [100k]、Claude2.1 [200k]|　- | [🌐](https://www.anthropic.com/index/claude-2) |
+| Gemini  | Google | 日本語対応 |  Gemini Nano, Gemini Pro, Gemini Ultra  |　- | [🌐](https://cloud.google.com/vertex-ai/docs/generative-ai/model-reference/overview?hl=ja)|
 | PaLM-2  | Google | 日本語対応 |  PaLM-2[8K] |　- | [🌐](https://developers.generativeai.google/guide)|
 
 ----
