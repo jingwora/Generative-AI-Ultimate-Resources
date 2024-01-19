@@ -7,21 +7,6 @@
   - [Domain-specific datasets and Private datasets](#domain-specific-datasets-and-private-datasets)
   - [General Open Access Datasets for Alignment](#general-open-access-datasets-for-alignment)
   - [Potential Overlap](#potential-overlap)
-- [Papers](#papers)
-  - [Pre-trained LLM](#pre-trained-llm)
-  - [Instruction finetuned LLM](#instruction-finetuned-llm)
-  - [Aligned LLM](#aligned-llm)
-- [Open LLM](#open-llm)
-  - [LLM Training Frameworks](#llm-training-frameworks)
-  - [LLM Optimization](#llm-optimization)
-    - [State-of-the-art Parameter-Efficient Fine-Tuning (PEFT) methods](#state-of-the-art-parameter-efficient-fine-tuning-peft-methods)
-  - [Tools for deploying LLM](#tools-for-deploying-llm)
-  - [Tutorials about LLM](#tutorials-about-llm)
-  - [Courses about LLM](#courses-about-llm)
-  - [Opinions about LLM](#opinions-about-llm)
-  - [Other Awesome Lists](#other-awesome-lists)
-  - [Other Useful Resources](#other-useful-resources)
-  - [Contribute](#contribute)
 - [References](#references)
 
 
@@ -124,5 +109,5 @@ To download or access information about the most commonly used datasets: https:/
 | Alpaca-CoT        | Overlap | Overlap  | Overlap | Overlap          | Overlap           | Overlap   | -         |
 
 
-### References:
+## References
 - https://raw.githubusercontent.com/dsdanielpark/open-llm-datasets/main/README.md
