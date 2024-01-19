@@ -3,9 +3,9 @@
 
 ## Table of Contents
 - [Datasets](#datasets)
-  - [General Open Access Datasets for Alignment](#general-open-access-datasets-for-alignment)
   - [Open Datasets for Pretraining](#open-datasets-for-pretraining)
   - [Domain-specific datasets and Private datasets](#domain-specific-datasets-and-private-datasets)
+  - [General Open Access Datasets for Alignment](#general-open-access-datasets-for-alignment)
   - [Potential Overlap](#potential-overlap)
 - [Papers](#papers)
   - [Pre-trained LLM](#pre-trained-llm)
@@ -31,6 +31,43 @@
 
 # Datasets
 To download or access information about the most commonly used datasets: https://huggingface.co/datasets
+
+## Open Datasets for Pretraining
+
+- [falcon-refinedweb](https://huggingface.co/datasets/tiiuae/falcon-refinedweb)
+- [Common Crawl](https://commoncrawl.org/)
+- [nlp_Chinese_Corpus](https://github.com/brightmart/nlp_chinese_corpus)
+- [The Pile (V1)](https://pile.eleuther.ai/)
+- [Huggingface dataset for C4](https://huggingface.co/datasets/c4)
+- [TensorFlow dataset for C4](https://www.tensorflow.org/datasets/catalog/c4)
+- [ROOTS](https://huggingface.co/bigscience-data)
+- [PushshPairs reddit](https://files.pushshPairs.io/reddit/)
+- [Gutenberg project](https://www.gutenberg.org/policy/robot_access.html)
+- [CLUECorpus](https://github.com/CLUEbenchmark/CLUE)
+
+| Dataset       | Size       | Year          | Description                                                                                     |
+|---------------|------------|---------------|-------------------------------------------------------------------------------------------------|
+| Common Crawl  | 250 TB     | 2008-present  | A collection of raw web data extracted from billions of web pages                                |
+| C4            | 750 GB     | 2020          | A cleaned and deduplicated subset of Common Crawl, containing about 13.5 billion sentences       |
+| The Pile      | 825 GB     | 2020          | A diverse set of 22 smaller datasets, covering various domains such as books, news, code, etc.   |
+| Wikipedia     | 16 GB      | 2001-present  | A free online encyclopedia that anyone can edit                                                  |
+| BookCorpus    | 6 GB       | 2015          | A corpus of 11,038 books from various genres                                                     |
+
+- C4 dataset contains about 13.5 billion sentences, of which 87.3% are in English.
+
+## Domain-specific datasets and Private datasets
+
+- [ChatGPT-Jailbreak-Prompts](https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts)
+- [awesome-chinese-legal-resources](https://github.com/pengxiao-song/awesome-chinese-legal-resources)
+- [Long Form](https://github.com/akoksal/LongForm)
+- [symbolic-instruction-tuning](https://huggingface.co/datasets/sail/symbolic-instruction-tuning)
+- [Safety Prompt](https://github.com/thu-coai/Safety-Prompts)
+- [Tapir-Cleaned](https://huggingface.co/datasets/MattiaL/tapir-cleaned-116k)
+- [instructional_codesearchnet_python](https://huggingface.co/datasets/Nan-Do/instructional_codesearchnet_python)
+- [finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca)
+- WebText(Reddit links) - Private Dataset
+- MassiveText - Private Dataset
+- [Korean-Open-LLM-Datasets](https://github.com/dsdanielpark/Korean-Open-LLM-Datasets)
 
 ## General Open Access Datasets for Alignment
 - [falcon-refinedweb](https://huggingface.co/datasets/tiiuae/falcon-refinedweb)
@@ -73,47 +110,8 @@ To download or access information about the most commonly used datasets: https:/
 - [OpenAI Summarization Comparison](https://huggingface.co/datasets/openai/summarize_from_feedback)
 - [Natural Instruction](https://instructions.apps.allenai.org/) [GitHub&Download](https://github.com/allenai/natural-instructions)
 - [hh-rlhf](https://github.com/anthropics/hh-rlhf) [on Huggingface](https://huggingface.co/datasets/Anthropic/hh-rlhf)
-- [OpenAI PRM800k](https://github.com/openai/prm800k) 
-
-
-## Open Datasets for Pretraining
-
-- [falcon-refinedweb](https://huggingface.co/datasets/tiiuae/falcon-refinedweb)
-- [Common Crawl](https://commoncrawl.org/)
-- [nlp_Chinese_Corpus](https://github.com/brightmart/nlp_chinese_corpus)
-- [The Pile (V1)](https://pile.eleuther.ai/)
-- [Huggingface dataset for C4](https://huggingface.co/datasets/c4)
-- [TensorFlow dataset for C4](https://www.tensorflow.org/datasets/catalog/c4)
-- [ROOTS](https://huggingface.co/bigscience-data)
-- [PushshPairs reddit](https://files.pushshPairs.io/reddit/)
-- [Gutenberg project](https://www.gutenberg.org/policy/robot_access.html)
-- [CLUECorpus](https://github.com/CLUEbenchmark/CLUE)
-
-| Dataset       | Size       | Year          | Description                                                                                     |
-|---------------|------------|---------------|-------------------------------------------------------------------------------------------------|
-| Common Crawl  | 250 TB     | 2008-present  | A collection of raw web data extracted from billions of web pages                                |
-| C4            | 750 GB     | 2020          | A cleaned and deduplicated subset of Common Crawl, containing about 13.5 billion sentences       |
-| The Pile      | 825 GB     | 2020          | A diverse set of 22 smaller datasets, covering various domains such as books, news, code, etc.   |
-| Wikipedia     | 16 GB      | 2001-present  | A free online encyclopedia that anyone can edit                                                  |
-| BookCorpus    | 6 GB       | 2015          | A corpus of 11,038 books from various genres                                                     |
-
-- C4 dataset contains about 13.5 billion sentences, of which 87.3% are in English.
-
-## Domain-specific datasets and Private datasets
-
-- [ChatGPT-Jailbreak-Prompts](https://huggingface.co/datasets/rubend18/ChatGPT-Jailbreak-Prompts)
-- [awesome-chinese-legal-resources](https://github.com/pengxiao-song/awesome-chinese-legal-resources)
-- [Long Form](https://github.com/akoksal/LongForm)
-- [symbolic-instruction-tuning](https://huggingface.co/datasets/sail/symbolic-instruction-tuning)
-- [Safety Prompt](https://github.com/thu-coai/Safety-Prompts)
-- [Tapir-Cleaned](https://huggingface.co/datasets/MattiaL/tapir-cleaned-116k)
-- [instructional_codesearchnet_python](https://huggingface.co/datasets/Nan-Do/instructional_codesearchnet_python)
-- [finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca)
-- WebText(Reddit links) - Private Dataset
-- MassiveText - Private Dataset
-- [Korean-Open-LLM-Datasets](https://github.com/dsdanielpark/Korean-Open-LLM-Datasets)
-
-
+- [OpenAI PRM800k](https://github.com/openai/prm800k)
+  
 ## Potential Overlap
 |                   | OIG     | hh-rlhf  | xP3     | Natural instruct | AlpacaDataCleaned | GPT-4-LLM | Alpaca-CoT |
 |-------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
