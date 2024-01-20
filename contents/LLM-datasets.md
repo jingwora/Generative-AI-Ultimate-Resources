@@ -30,13 +30,20 @@ To download or access information about the most commonly used datasets: https:/
 - [Gutenberg project](https://www.gutenberg.org/policy/robot_access.html)
 - [CLUECorpus](https://github.com/CLUEbenchmark/CLUE)
 
-| Dataset       | Size       | Year          | Description                                                                                     |
-|---------------|------------|---------------|-------------------------------------------------------------------------------------------------|
-| Common Crawl  | 250 TB     | 2008-present  | A collection of raw web data extracted from billions of web pages                                |
-| C4            | 750 GB     | 2020          | A cleaned and deduplicated subset of Common Crawl, containing about 13.5 billion sentences       |
-| The Pile      | 825 GB     | 2020          | A diverse set of 22 smaller datasets, covering various domains such as books, news, code, etc.   |
-| Wikipedia     | 16 GB      | 2001-present  | A free online encyclopedia that anyone can edit                                                  |
-| BookCorpus    | 6 GB       | 2015          | A corpus of 11,038 books from various genres                                                     |
+
+| Dataset                   | Description                                                                                          | Size        | Year     |
+|---------------------------|------------------------------------------------------------------------------------------------------|-------------|----------|
+| falcon-refinedweb         | Likely a web-crawled dataset for specific domains, details need to be verified.                      | Unknown     | Unknown  |
+| Common Crawl              | A web-crawled dataset that contains petabytes of data collected over 10 years from the web.          | Petabytes   | Ongoing  |
+| nlp_Chinese_Corpus        | A comprehensive dataset for Chinese natural language processing.                                     | Unknown     | Unknown  |
+| The Pile (V1)             | A large-scale, diverse dataset designed for training language models, comprising various sources.   | 800GB+      | 2020/2021|
+| Huggingface dataset for C4| Cleaned version of Common Crawl focusing on English language and cleaned for NLP training.           | Multi-TB    | Unknown  |
+| TensorFlow dataset for C4 | TensorFlow's adaptation of the C4 dataset, cleaned and processed for machine learning.               | Multi-TB    | Unknown  |
+| ROOTS                     | Details about this dataset are not clear; could refer to a specific domain dataset.                  | Unknown     | Unknown  |
+| PushshiftPairs reddit     | A dataset derived from Reddit, often used for analyzing social media text and trends.                | Varies      | Ongoing  |
+| Gutenberg project         | A collection of over 60,000 free eBooks, primarily used for NLP tasks involving literary texts.      | Over 60,000 books | Ongoing |
+| CLUECorpus                | A large-scale Chinese language corpus for language understanding and generation tasks.               | Unknown     | Unknown  |
+| Wikipedia                | A free online encyclopedia that anyone can edit.               | 16 GB+     | 2001-present  |
 
 - C4 dataset contains about 13.5 billion sentences, of which 87.3% are in English.
 
