@@ -13,6 +13,17 @@
 - Assistants API: Build AI assistants within your own applications. [Doc](https://platform.openai.com/docs/assistants/overview/agents)
 - GPTs:  Create custom versions of ChatGPT. [Doc](https://platform.openai.com/docs/plugins/introduction)
 
+
+# Completion API vs Assistant API
+| **Completion API** | **Asistant API** |
+|-----|-----|
+| GPT | GPT | 
+| - | Persistent threading (Save history & context) | 
+| - | Upload files for knowledge-base | 
+| - | Code Interpreter | 
+| - | Function Calling | 
+
+
 ## GPTs:
 
 - customgpts: [🌐](https://customgpts.org/)
