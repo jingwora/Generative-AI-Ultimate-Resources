@@ -14,7 +14,7 @@
 - GPTs:  Create custom versions of ChatGPT. [Doc](https://platform.openai.com/docs/plugins/introduction)
 
 
-# Completion API vs Assistant API
+## Completion API vs Assistant API
 | **Completion API** | **Asistant API** |
 |-----|-----|
 | GPT | GPT | 
