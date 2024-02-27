@@ -16,7 +16,8 @@ Generative-AI-Ultimate-Resources is a comprehensive source for valuable insights
   - [Image-to-Image-Resources](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/Image-to-Image-Resources.md)
 - Agent
   - [AI-Agents-Resources](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/AI-Agents-Resources.md)
-
+- Azure
+  - [Azure-Gen-AI](https://github.com/jingwora/Generative-AI-Ultimate-Resources/blob/main/contents/Azure-gen-ai.md)
 
 ## Tools
 
